@@ -11,6 +11,7 @@ function App() {
       <div>
         <h1>HI EVERYONE, THNAKS FOR VISITING, MUCH LOVE! CHERI :)</h1>
         <h4>This is the begginning of Cheri's yoga, meditation, and massage services and information website. Be sure to return for updates :)</h4>
+        <h6>Built by one of the firey ones, Justin</h6>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
